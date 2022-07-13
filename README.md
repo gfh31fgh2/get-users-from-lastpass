@@ -1,2 +1,2 @@
 # get-users-from-lastpass
-Getting users emails from lastpass by enterprise API
+Getting users emails from lastpass by Enterprise API
